@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\unity\\GameServer\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "D:\\Github\\ServerSuhang\\GameServer\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "D:\\unity\\GameServer\\ServerCore\\ServerCore.csproj",
+      "projectPath": "D:\\Github\\ServerSuhang\\GameServer\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\unity\\GameServer\\ServerCore\\obj\\",
+      "outputPath": "D:\\Github\\ServerSuhang\\GameServer\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
